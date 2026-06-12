@@ -96,6 +96,134 @@
     {
       "keywords": ["vitamins", "supplements", "magnesium", "zinc", "b6"],
       "text": "Magnesium is great for cramps, and Vitamin B6 can help with [PHASE] phase mood swings. Always consult a professional before starting new supplements."
+    },
+    {
+      "keywords": ["hi", "hello", "hey", "good morning", "good afternoon", "good evening"],
+      "text": "Hello! I'm Luna, your personal wellness companion. I'm so glad you're here today. How are you feeling in your [PHASE] phase? ✨"
+    },
+    {
+      "keywords": ["who are you", "your name", "what are you", "what is luna"],
+      "text": "I'm Luna! I'm an AI designed to help you understand your cycle, hormones, and overall wellness. Think of me as your smart, caring health assistant! 🌙"
+    },
+    {
+      "keywords": ["how are you", "how are things", "you doing okay"],
+      "text": "I'm doing great, thank you for asking! I'm always energized when I'm helping you stay healthy. How about you? 😊"
+    },
+    {
+      "keywords": ["what can you do", "help", "features", "how to use"],
+      "text": "I can help you understand your current [PHASE] phase, suggest foods to eat, explain your symptoms, and even look at your water/sleep patterns to give you tips! Just ask me things like 'Why am I tired?' or 'What should I eat?'"
+    },
+    {
+      "keywords": ["safe", "private", "security", "data", "privacy"],
+      "text": "Your privacy is my priority. Your health data is stored locally and privately. I'm here only to help you, not to share your secrets. 🔒"
+    },
+    {
+      "keywords": ["thank you", "thanks", "helpful", "good bot"],
+      "text": "You're very welcome! I'm always here for you. Is there anything else you'd like to know about your [PHASE] phase? 💖"
+    },
+    {
+      "keywords": ["pcos", "endometriosis", "pcod", "hormonal imbalance"],
+      "text": "Conditions like PCOS or Endometriosis can make cycles very unique. While I can help you track patterns, it's always best to discuss these specific symptoms with your doctor for a tailored plan. 👩‍⚕️"
+    },
+    {
+      "keywords": ["doctor", "hospital", "emergency", "medical", "severe pain"],
+      "text": "If you are experiencing severe or sudden pain, please consult a medical professional immediately. I can help with wellness tips, but I cannot replace a doctor's diagnosis. Stay safe! ❤️"
+    },
+    {
+      "keywords": ["cramps", "pain", "ache", "backache", "abdominal"],
+      "text": "Cramps are common, especially in the [PHASE] phase. Heat pads, magnesium-rich foods (like dark chocolate!), and gentle stretching can help soothe your muscles. 🍫"
+    },
+    {
+      "keywords": ["tired", "exhausted", "fatigue", "sleepy", "low energy", "drained"],
+      "text": "Feeling drained? During your [PHASE] phase, your body is working hard. Try a 20-minute power nap and focus on hydration. 😴"
+    },
+    {
+      "keywords": ["bloating", "heavy", "weight", "swelling", "water retention"],
+      "text": "Bloating usually peaks before or during the [PHASE] phase. Reducing salt and drinking ginger tea or extra water can help flush out excess fluids. ☕"
+    },
+    {
+      "keywords": ["acne", "pimples", "breakout", "skin", "oily", "spots"],
+      "text": "Skin changes are tied to hormones in the [PHASE] phase. Progesterone can increase oil; try to keep your skin clean and stay hydrated. ✨"
+    },
+    {
+      "keywords": ["cravings", "hungry", "sugar", "chocolate", "salty", "food", "appetite"],
+      "text": "Your metabolism shifts during the [PHASE] phase. It's natural to crave more! Try to balance treats with complex carbs like oats or nuts. 🥜"
+    },
+    {
+      "keywords": ["happy", "good", "great", "energetic", "motivated", "positive"],
+      "text": "That's wonderful! You are likely feeling the 'high' of the [PHASE] phase. It's a great time for socializing and new projects! 🌟"
+    },
+    {
+      "keywords": ["sad", "cry", "emotional", "anxious", "depressed", "blue", "moody"],
+      "text": "Be gentle with yourself. Hormonal drops in the [PHASE] phase can affect your serotonin. Journaling or a short walk might help clear your mind. 🌸"
+    },
+    {
+      "keywords": ["headache", "migraine", "head", "throbbing"],
+      "text": "Hormonal migraines often happen at the start of the [PHASE] phase. Rest in a dark room and ensure you're getting enough electrolytes. 🥤"
+    },
+    {
+      "keywords": ["ovulation", "egg", "conceive", "pregnancy", "fertile", "fertility"],
+      "text": "Since you are in the [PHASE] phase, your fertility is likely at its peak. Look for 'egg-white' cervical mucus as a key sign! 🕊️"
+    },
+    {
+      "keywords": ["workout", "gym", "exercise", "run", "sport", "yoga", "fitness"],
+      "text": "In the [PHASE] phase, light movement is best if you're low on energy. Save high-intensity workouts for your Follicular phase! 🧘‍♀️"
+    },
+    {
+      "keywords": ["discharge", "fluid", "mucus", "wet", "sticky", "dry"],
+      "text": "Discharge changes throughout the month. In the [PHASE] phase, it's a sign of where you are in your cycle. Clear and stretchy means high fertility. 💧"
+    },
+    {
+      "keywords": ["breast", "sore", "tender", "sensitive", "chest"],
+      "text": "Breast tenderness is very common in the [PHASE] phase due to rising progesterone. A supportive bra and reducing caffeine can help. 🎀"
+    },
+    {
+      "keywords": ["libido", "sex", "drive", "intimacy", "horny"],
+      "text": "Your sex drive often peaks during the [PHASE] phase. This is nature's way of encouraging reproduction! 🔥"
+    },
+    {
+      "keywords": ["late", "missed", "irregular", "delay", "behind"],
+      "text": "A late period can be caused by stress, travel, or diet changes. If it's more than 7 days late, consider taking a test or seeing a doctor. 📅"
+    },
+    {
+      "keywords": ["spotting", "light blood", "brown", "discharge blood"],
+      "text": "Light spotting can happen during the [PHASE] phase. It is often normal, but track if it happens every month. 🩸"
+    },
+    {
+      "keywords": ["nausea", "sick", "stomach", "vomit", "queasy"],
+      "text": "Feeling queasy? Prostaglandins during the [PHASE] phase can affect the digestive system. Ginger tea is a great natural remedy. 🍵"
+    },
+    {
+      "keywords": ["sleep", "insomnia", "awake", "night", "restless"],
+      "text": "Progesterone can raise your body temperature in the [PHASE] phase, making sleep difficult. Try keeping your room cooler at night. ❄️"
+    },
+    {
+      "keywords": ["coffee", "caffeine", "tea", "energy drink"],
+      "text": "Caffeine can sometimes worsen cramps or breast pain in the [PHASE] phase. Try switching to herbal tea for a few days. 🍵"
+    },
+    {
+      "keywords": ["iron", "spinach", "anemic", "weak", "meat"],
+      "text": "You lose iron during the [PHASE] phase. Eating spinach, beans, or red meat can help keep your energy levels up. 🥗"
+    },
+    {
+      "keywords": ["stress", "panic", "worry", "overwhelmed"],
+      "text": "High stress can actually delay your cycle. Take a moment for deep breathing; your wellness is the priority during the [PHASE] phase. 🌬️"
+    },
+    {
+      "keywords": ["constipation", "diarrhea", "poop", "bowel"],
+      "text": "Hormones affect your gut too! High progesterone in the [PHASE] phase can slow things down, while prostaglandins can speed them up. 🍎"
+    },
+    {
+      "keywords": ["hair", "oily hair", "dry hair", "scalp"],
+      "text": "Hormones in the [PHASE] phase can change your scalp's oil production. You might find you need to wash your hair more often this week. 🧖‍♀️"
+    },
+    {
+      "keywords": ["alcohol", "wine", "beer", "drink"],
+      "text": "Alcohol can dehydrate you and make [PHASE] phase symptoms feel worse. Try to alternate each drink with a glass of water. 🍷"
+    },
+    {
+      "keywords": ["vitamins", "supplements", "magnesium", "zinc", "b6"],
+      "text": "Magnesium is great for cramps, and Vitamin B6 can help with [PHASE] phase mood swings. Always consult a professional before starting new supplements. 💊"
     }
   ]
 }
