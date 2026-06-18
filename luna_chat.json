@@ -5,6 +5,7 @@
       "keywords": ["cramps", "pain", "ache", "backache", "abdominal"],
       "text": "Cramps are common, especially in the [PHASE] phase. Heat pads, magnesium-rich foods, and gentle stretching can help soothe your muscles."
     },
+    
     {
       "keywords": ["tired", "exhausted", "fatigue", "sleepy", "low energy", "drained"],
       "text": "Feeling drained? During your [PHASE] phase, your body is working hard. Try a 20-minute power nap and focus on hydration."
@@ -224,6 +225,39 @@
     {
       "keywords": ["vitamins", "supplements", "magnesium", "zinc", "b6"],
       "text": "Magnesium is great for cramps, and Vitamin B6 can help with [PHASE] phase mood swings. Always consult a professional before starting new supplements. 💊"
-    }
+    },
+    {
+  "id": "cramps",
+
+  "keywords": [
+    "cramps",
+    "pain",
+    "abdominal pain",
+    "back pain"
+  ],
+
+  "description":
+      "Menstrual cramps are caused by uterine contractions triggered by prostaglandins.",
+
+  "commonIn": [
+    "Menstrual"
+  ],
+
+  "tips": [
+    "Use a heating pad",
+    "Stay hydrated",
+    "Try gentle stretching",
+    "Take a warm bath"
+  ],
+
+  "foods": [
+    "Bananas",
+    "Dark chocolate",
+    "Spinach"
+  ],
+
+  "doctorWarning":
+      "Seek medical attention if pain prevents daily activities or becomes severe."
+}
   ]
 }
