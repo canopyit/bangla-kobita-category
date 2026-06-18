@@ -2,7 +2,7 @@
   "default": "I'm here to support you. Could you tell me more about how you're feeling during this [PHASE] phase? Tracking your daily symptoms helps me give better advice.",
   "responses": [
     {
-      "keywords": ["cramps", "pain", "ache", "backache", "abdominal"],
+      "keywords": ["pain", "ache", "backache", "abdominal"],
       "text": "Cramps are common, especially in the [PHASE] phase. Heat pads, magnesium-rich foods, and gentle stretching can help soothe your muscles."
     },
     
